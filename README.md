@@ -1,6 +1,6 @@
 # Hi there, I'm Mat! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
-I am a full stack web developer. I like videogames, cars, crypto, AI, travelling and building SaaS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="�" width="32" height="32">.
+I am a full stack web developer. Besides programming, I like videogames, cars, travelling.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="25" height="25"> Tech Stack
 
